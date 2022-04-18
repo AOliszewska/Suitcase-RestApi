@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gryzilla\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gryzilla\\.nuget\\packages"
+    ]
+  }
+}
